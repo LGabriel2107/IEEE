@@ -1,3 +1,5 @@
+# Feita por Adriano Carvalho e Luiz Gabriel Lima
+
 print("\nCalculadora de Reajuste Salarial")
 print("~"*50)
 
