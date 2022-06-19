@@ -5,7 +5,7 @@ print("~"*50)
 
 # função para o reajuste salarial
 def calc():
-    print("Porcentagens de reajuste disponíveis:\n1 - 3,43%\n2 - 2,07%\n3 - 6,58% - 11,28%")
+    print("Porcentagens de reajuste disponíveis:\n1 - 3,43%\n2 - 2,07%\n3 - 6,58%\4 - 11,28%")
     print("~"*50)
     rej = float(input("Escolha o reajuste que você deseja aplicar: "))
     print("~"*50)
